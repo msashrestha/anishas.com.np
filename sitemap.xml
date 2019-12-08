@@ -6,96 +6,126 @@
             https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 
-    <url>
-      <loc>https://anishas.com.np/</loc>
-      <lastmod>2019-11-28T07:39:38+00:00</lastmod>
-      <priority>1.00</priority>
-    </url>
-    <url>
-      <loc>https://anishas.com.np/about/</loc>
-      <lastmod>2019-11-28T07:39:38+00:00</lastmod>
-      <priority>0.80</priority>
-    </url>
-    <url>
-      <loc>https://anishas.com.np/privacy/</loc>
-      <lastmod>2019-11-28T07:39:38+00:00</lastmod>
-      <priority>0.80</priority>
-    </url>
-    <url>
-      <loc>https://anishas.com.np/the-social-media-dilemma/</loc>
-      <lastmod>2019-11-28T07:39:38+00:00</lastmod>
-      <priority>0.80</priority>
-    </url>
-    <url>
-      <loc>https://anishas.com.np/my-adventure-in-fitness/</loc>
-      <lastmod>2019-11-28T07:39:38+00:00</lastmod>
-      <priority>0.80</priority>
-    </url>
-    <url>
-      <loc>https://anishas.com.np/about-periods/</loc>
-      <lastmod>2019-11-28T07:39:38+00:00</lastmod>
-      <priority>0.80</priority>
-    </url>
-    <url>
-      <loc>https://anishas.com.np/a-dream/</loc>
-      <lastmod>2019-11-28T07:39:38+00:00</lastmod>
-      <priority>0.80</priority>
-    </url>
-    <url>
-      <loc>https://anishas.com.np/author/anisha/</loc>
-      <lastmod>2019-11-28T07:39:38+00:00</lastmod>
-      <priority>0.64</priority>
-    </url>
-    <url>
-      <loc>https://anishas.com.np/category/article/</loc>
-      <lastmod>2019-11-28T07:39:38+00:00</lastmod>
-      <priority>0.64</priority>
-    </url>
-    <url>
-      <loc>https://anishas.com.np/tag/self-love/</loc>
-      <lastmod>2019-11-28T07:39:38+00:00</lastmod>
-      <priority>0.64</priority>
-    </url>
-    <url>
-      <loc>https://anishas.com.np/tag/social-media/</loc>
-      <lastmod>2019-11-28T07:39:38+00:00</lastmod>
-      <priority>0.64</priority>
-    </url>
-    <url>
-      <loc>https://anishas.com.np/tag/fitness/</loc>
-      <lastmod>2019-11-28T07:39:38+00:00</lastmod>
-      <priority>0.64</priority>
-    </url>
-    <url>
-      <loc>https://anishas.com.np/tag/health/</loc>
-      <lastmod>2019-11-28T07:39:38+00:00</lastmod>
-      <priority>0.64</priority>
-    </url>
-    <url>
-      <loc>https://anishas.com.np/tag/menstruation/</loc>
-      <lastmod>2019-11-28T07:39:38+00:00</lastmod>
-      <priority>0.64</priority>
-    </url>
-    <url>
-      <loc>https://anishas.com.np/tag/periods/</loc>
-      <lastmod>2019-11-28T07:39:38+00:00</lastmod>
-      <priority>0.64</priority>
-    </url>
-    <url>
-      <loc>https://anishas.com.np/category/poetry/</loc>
-      <lastmod>2019-11-28T07:39:38+00:00</lastmod>
-      <priority>0.64</priority>
-    </url>
-    <url>
-      <loc>https://anishas.com.np/tag/dream/</loc>
-      <lastmod>2019-11-28T07:39:38+00:00</lastmod>
-      <priority>0.64</priority>
-    </url>
-    <url>
-      <loc>https://anishas.com.np/tag/wish/</loc>
-      <lastmod>2019-11-28T07:39:38+00:00</lastmod>
-      <priority>0.64</priority>
-    </url>
+<url>
+  <loc>https://anishas.com.np/</loc>
+  <lastmod>2019-12-08T06:14:43+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://anishas.com.np/about/</loc>
+  <lastmod>2019-12-08T06:14:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://anishas.com.np/privacy/</loc>
+  <lastmod>2019-12-08T06:14:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://anishas.com.np/feeling-twenty-two/</loc>
+  <lastmod>2019-12-08T06:14:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://anishas.com.np/the-social-media-dilemma/</loc>
+  <lastmod>2019-12-08T06:14:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://anishas.com.np/my-adventure-in-fitness/</loc>
+  <lastmod>2019-12-08T06:14:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://anishas.com.np/about-periods/</loc>
+  <lastmod>2019-12-08T06:14:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://anishas.com.np/a-dream/</loc>
+  <lastmod>2019-12-08T06:14:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://anishas.com.np/author/anisha/</loc>
+  <lastmod>2019-12-08T06:14:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://anishas.com.np/category/video/</loc>
+  <lastmod>2019-12-08T06:14:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://anishas.com.np/tag/22/</loc>
+  <lastmod>2019-12-08T06:14:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://anishas.com.np/tag/twenty-two/</loc>
+  <lastmod>2019-12-08T06:14:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://anishas.com.np/tag/video/</loc>
+  <lastmod>2019-12-08T06:14:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://anishas.com.np/tag/youtube/</loc>
+  <lastmod>2019-12-08T06:14:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://anishas.com.np/category/article/</loc>
+  <lastmod>2019-12-08T06:14:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://anishas.com.np/tag/self-love/</loc>
+  <lastmod>2019-12-08T06:14:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://anishas.com.np/tag/social-media/</loc>
+  <lastmod>2019-12-08T06:14:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://anishas.com.np/tag/fitness/</loc>
+  <lastmod>2019-12-08T06:14:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://anishas.com.np/tag/health/</loc>
+  <lastmod>2019-12-08T06:14:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://anishas.com.np/tag/menstruation/</loc>
+  <lastmod>2019-12-08T06:14:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://anishas.com.np/tag/periods/</loc>
+  <lastmod>2019-12-08T06:14:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://anishas.com.np/category/poetry/</loc>
+  <lastmod>2019-12-08T06:14:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://anishas.com.np/tag/dream/</loc>
+  <lastmod>2019-12-08T06:14:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://anishas.com.np/tag/wish/</loc>
+  <lastmod>2019-12-08T06:14:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
 
 
 </urlset>
