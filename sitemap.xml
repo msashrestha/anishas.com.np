@@ -4,174 +4,196 @@
       xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9
             https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
 
 <url>
   <loc>https://anishas.com.np/</loc>
-  <lastmod>2020-02-16T15:25:11+00:00</lastmod>
+  <lastmod>2020-05-29T07:19:18+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://anishas.com.np/about/</loc>
-  <lastmod>2020-02-16T15:25:11+00:00</lastmod>
+  <lastmod>2020-05-29T07:19:18+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://anishas.com.np/privacy/</loc>
-  <lastmod>2020-02-16T15:25:11+00:00</lastmod>
+  <lastmod>2020-05-29T07:19:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://anishas.com.np/quarantine-thoughts/</loc>
+  <lastmod>2020-05-29T07:19:18+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://anishas.com.np/love-and-rain/</loc>
-  <lastmod>2020-02-16T15:25:11+00:00</lastmod>
+  <lastmod>2020-05-29T07:19:18+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://anishas.com.np/misery/</loc>
-  <lastmod>2020-02-16T15:25:11+00:00</lastmod>
+  <lastmod>2020-05-29T07:19:18+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://anishas.com.np/mess/</loc>
-  <lastmod>2020-02-16T15:25:11+00:00</lastmod>
+  <lastmod>2020-05-29T07:19:18+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://anishas.com.np/time-and-patience/</loc>
-  <lastmod>2020-02-16T15:25:11+00:00</lastmod>
+  <lastmod>2020-05-29T07:19:18+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://anishas.com.np/the-social-media-dilemma/</loc>
-  <lastmod>2020-02-16T15:25:11+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://anishas.com.np/my-adventure-in-fitness/</loc>
-  <lastmod>2020-02-16T15:25:11+00:00</lastmod>
+  <lastmod>2020-05-29T07:19:18+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://anishas.com.np/page/2/</loc>
-  <lastmod>2020-02-16T15:25:11+00:00</lastmod>
+  <lastmod>2020-05-29T07:19:18+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://anishas.com.np/author/anisha/</loc>
-  <lastmod>2020-02-16T15:25:11+00:00</lastmod>
+  <lastmod>2020-05-29T07:19:18+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://anishas.com.np/category/article/</loc>
-  <lastmod>2020-02-16T15:25:11+00:00</lastmod>
+  <lastmod>2020-05-29T07:19:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://anishas.com.np/tag/2020/</loc>
+  <lastmod>2020-05-29T07:19:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://anishas.com.np/tag/lockdown/</loc>
+  <lastmod>2020-05-29T07:19:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://anishas.com.np/tag/quarantine/</loc>
+  <lastmod>2020-05-29T07:19:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://anishas.com.np/tag/thoughts/</loc>
+  <lastmod>2020-05-29T07:19:18+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://anishas.com.np/tag/love/</loc>
-  <lastmod>2020-02-16T15:25:11+00:00</lastmod>
+  <lastmod>2020-05-29T07:19:18+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://anishas.com.np/tag/rain/</loc>
-  <lastmod>2020-02-16T15:25:11+00:00</lastmod>
+  <lastmod>2020-05-29T07:19:18+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://anishas.com.np/tag/warm/</loc>
-  <lastmod>2020-02-16T15:25:11+00:00</lastmod>
+  <lastmod>2020-05-29T07:19:18+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://anishas.com.np/tag/feelings/</loc>
-  <lastmod>2020-02-16T15:25:11+00:00</lastmod>
+  <lastmod>2020-05-29T07:19:18+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://anishas.com.np/tag/misery/</loc>
-  <lastmod>2020-02-16T15:25:11+00:00</lastmod>
+  <lastmod>2020-05-29T07:19:18+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://anishas.com.np/tag/life/</loc>
-  <lastmod>2020-02-16T15:25:11+00:00</lastmod>
+  <lastmod>2020-05-29T07:19:18+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://anishas.com.np/tag/mental-health/</loc>
-  <lastmod>2020-02-16T15:25:11+00:00</lastmod>
+  <lastmod>2020-05-29T07:19:18+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://anishas.com.np/tag/strength/</loc>
-  <lastmod>2020-02-16T15:25:11+00:00</lastmod>
+  <lastmod>2020-05-29T07:19:18+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://anishas.com.np/tag/patience/</loc>
-  <lastmod>2020-02-16T15:25:11+00:00</lastmod>
+  <lastmod>2020-05-29T07:19:18+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://anishas.com.np/tag/self-love/</loc>
-  <lastmod>2020-02-16T15:25:11+00:00</lastmod>
+  <lastmod>2020-05-29T07:19:18+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://anishas.com.np/tag/social-media/</loc>
-  <lastmod>2020-02-16T15:25:11+00:00</lastmod>
+  <lastmod>2020-05-29T07:19:18+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://anishas.com.np/tag/fitness/</loc>
-  <lastmod>2020-02-16T15:25:11+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://anishas.com.np/tag/health/</loc>
-  <lastmod>2020-02-16T15:25:11+00:00</lastmod>
+  <loc>https://anishas.com.np/my-adventure-in-fitness/</loc>
+  <lastmod>2020-05-29T07:19:18+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://anishas.com.np/about-periods/</loc>
-  <lastmod>2020-02-16T15:25:11+00:00</lastmod>
+  <lastmod>2020-05-29T07:19:18+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://anishas.com.np/a-dream/</loc>
-  <lastmod>2020-02-16T15:25:11+00:00</lastmod>
+  <lastmod>2020-05-29T07:19:18+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://anishas.com.np/category/article/page/2/</loc>
-  <lastmod>2020-02-16T15:25:11+00:00</lastmod>
+  <lastmod>2020-05-29T07:19:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://anishas.com.np/tag/fitness/</loc>
+  <lastmod>2020-05-29T07:19:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://anishas.com.np/tag/health/</loc>
+  <lastmod>2020-05-29T07:19:18+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://anishas.com.np/tag/menstruation/</loc>
-  <lastmod>2020-02-16T15:25:11+00:00</lastmod>
+  <lastmod>2020-05-29T07:19:18+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://anishas.com.np/tag/periods/</loc>
-  <lastmod>2020-02-16T15:25:11+00:00</lastmod>
+  <lastmod>2020-05-29T07:19:18+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://anishas.com.np/category/poetry/</loc>
-  <lastmod>2020-02-16T15:25:11+00:00</lastmod>
+  <lastmod>2020-05-29T07:19:18+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://anishas.com.np/tag/dream/</loc>
-  <lastmod>2020-02-16T15:25:11+00:00</lastmod>
+  <lastmod>2020-05-29T07:19:18+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://anishas.com.np/tag/wish/</loc>
-  <lastmod>2020-02-16T15:25:11+00:00</lastmod>
+  <lastmod>2020-05-29T07:19:18+00:00</lastmod>
   <priority>0.51</priority>
 </url>
-
 
 </urlset>
